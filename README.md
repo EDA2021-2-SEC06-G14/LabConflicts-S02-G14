@@ -34,5 +34,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     Estudiante 2:   Diego Alejandro González Vargas
                     Correo: da.gonzalezv1@uniandes.edu.co
                     Codigo: 202110240
+                    
 
 
